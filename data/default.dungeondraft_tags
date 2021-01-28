@@ -305,5 +305,9 @@
       "textures/objects/Wood Plank 3.png"
     ]
   },
-  "sets": {}
+  "sets": {
+    "Caeora": [
+      "Caeora Cave Assets"
+    ]
+  }
 }
